@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<b>### Hi there 👋</b>
 <h1>My name is Yogesh Sharma 👋</h1>
 <h4>Software Developer with 5+ years of experience in PHP, and 3+ year Laravel Framework, </h4>
 

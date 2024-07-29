@@ -3,7 +3,7 @@
 </div>
 <b>### Hi there 👋</b>
 <h1>My name is Yogesh Sharma 👋</h1>
-<h4>Software Developer with 5+ years of experience in PHP, and 3+ year Laravel Framework, </h4>
+<h4>Software Developer with 6+ years of experience in PHP, and 4+ year Laravel Framework, </h4>
 
 <p>🌍  I'm based in INDIA</p>
 <p>🖥️  See my portfolio at @imyogeshsharma</p>
